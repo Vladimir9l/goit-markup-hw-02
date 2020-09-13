@@ -1,0 +1,204 @@
+body {
+	font-family: "Roboto", sans-serif;
+	font-style: normal;
+}
+
+.link {
+	text-decoration: none;
+}
+
+.list {
+	list-style: none;
+}
+
+.address {
+	font-style: normal;
+}
+
+.navigation-list-link:hover,
+.navigation-list-link:focus,
+.header-mail-link:hover,
+.header-mail-link:focus,
+.header-tel-link:hover,
+.header-tel-link:focus {
+	color: #2196f3;
+}
+
+.navigation-list-link,
+.header-mail-link,
+.header-tel-link {
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 1.143;
+	letter-spacing: 0.02em;
+
+	/*color: #2196F3;*/
+}
+
+.hero-one {
+	width: 1600px;
+	height: 600px;
+	left: 0px;
+	top: 80px;
+	text-align: center;
+	background: #2f303a;
+}
+
+.title {
+	font-weight: 900;
+	font-size: 44px;
+	line-height: 60px;
+	text-align: center;
+	letter-spacing: 0.06em;
+	text-transform: uppercase;
+	color: #ffffff;
+}
+
+.btn {
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 30px;
+	text-align: center;
+	letter-spacing: 0.06em;
+	background: #188ce8;
+	color: #ffffff;
+}
+
+.quality-list-main {
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 1.143;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+	color: #212121;
+}
+
+.quality-list-work {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 1.714;
+	letter-spacing: 0.03em;
+	color: #757575;
+}
+
+.work,
+.team-our {
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1.167;
+	text-align: center;
+	letter-spacing: 0.03em;
+	color: #212121;
+}
+
+.team-people {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.186;
+	text-align: center;
+	letter-spacing: 0.03em;
+	color: #212121;
+}
+
+.team-job {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.186;
+	text-align: center;
+	letter-spacing: 0.03em;
+	color: #757575;
+}
+
+.footer-list-item:hover,
+.footer-list-item:focus,
+.footer-map-link:hover,
+.footer-map-link:focus,
+.footer-mail-link:hover,
+.footer-mail-link:focus,
+.footer-tel-link:hover,
+.footer-tel-link:focus {
+	color: #ffffff;
+}
+
+.footer {
+	background: #2f303a;
+}
+
+.logo-one {
+	font-family: Raleway, sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 1.192;
+	letter-spacing: 0.03em;
+	color: #2196f3;
+}
+
+.logo-two {
+	font-family: Raleway, sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 1.192;
+	letter-spacing: 0.03em;
+	color: #000000;
+}
+
+.logo-three {
+	font-family: Raleway, sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 1.192;
+	letter-spacing: 0.03em;
+	color: #ffffff;
+}
+
+.footer-map-link {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 1.714;
+	letter-spacing: 0.03em;
+	color: #ffffff;
+}
+
+.footer-mail-link,
+.footer-tel-link {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 1.714;
+	letter-spacing: 0.03em;
+	color: rgba(255, 255, 255, 0.6);
+}
+
+.completed-what {
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 2;
+	letter-spacing: 0.06em;
+	color: #212121;
+}
+
+.completed-kind {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.875;
+	letter-spacing: 0.03em;
+	color: #757575;
+}
+
+.footer-address {
+	font-family: "Roboto", sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+	letter-spacing: 0.03em;
+	color: #ffffff;
+}
+
+.btn-port:hover,
+.btn-port:focus {
+	color: #ffffff;
+	background: #188ce8;
+}
